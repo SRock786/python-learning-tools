@@ -15,7 +15,7 @@ Isse aap username aur password verify kar sakte hain.
 ## Installation
 1. Clone the repo: `git clone https://github.com/YourUsername/InstaHack.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `python insta_hack.py`
+3. Run: `python learning_tool.py`
 
 ## Author
 White Hack Labs
